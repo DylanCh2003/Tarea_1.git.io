@@ -1,0 +1,266 @@
+p
+{
+ font-size: 18px;
+ padding: 10px 20px;
+ margin-bottom: 0;
+ color: white;
+ text-align: justify;
+
+}
+
+.Titulo
+{
+    text-align:center;
+    color: black;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.Subtitulo
+{
+    font-size: 24px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin: 0;
+    margin-top: 5px;
+    color: white;
+}
+
+
+
+
+.Información
+{
+    background-color: #6ac;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 10px;
+    border-color:black;
+    border-style: solid;
+    border-radius: 8px;
+    box-shadow: 0px 0px 35px #0006;
+    }
+
+.Moneda
+{
+    background-color: #6ac;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 10px;
+    border-color:black;
+    border-style: solid;
+    border-radius: 8px;
+    box-shadow: 0px 0px 35px #0006;
+}
+
+.Indice
+{
+    color: black;
+}
+
+.Pago
+{
+    font-size: 24px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin: 0;
+    margin-top: 5px;
+    color: white;
+}
+
+/* Seccion de la imagenes  */
+.Moneda_Italiana
+{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.Simbolo_Italiana
+{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.Bandera
+{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.Región
+{
+    width: 200px;
+    border-radius: 50%;
+}
+ /* Seccion del api de la zona horaria */
+.Zona_Horaria
+{
+    background-color: #6ac;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    box-shadow: 0px 0px 35px #0006;
+}
+
+.Pie-de-pagina
+{
+    color: #fff;
+}
+
+ .link_principal
+ {
+    display: flex;
+    color: white;
+ }
+
+.link
+{
+    color: white;
+}
+
+/* Sección del nav  */
+
+.main_navbar
+{
+    background: #48e;
+}
+
+.main_navbar a
+{
+    color: white;
+    display: inline-block;
+    padding: 9px;
+}
+
+.main_navbar ul
+{
+    display: flex;
+    padding: 0;
+}
+
+.main_navbar li
+{
+    list-style: none;
+    margin: 5px;
+}
+
+nav a
+{
+    text-decoration: none;
+}
+
+.video
+{
+    margin: 0 auto;
+    width: 600px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: block;
+    border-radius: 20px;
+}
+
+
+/* Sección de las tablas */
+table
+{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/*secccion del pie de pagina*/
+footer
+{
+    margin-top: auto;
+    border: 1px solid #f00;
+    background-color: #333;
+    color: #fff;
+    padding: 40px;
+}
+
+    body
+    {
+        background-size: cover;
+    }
+
+
+    /* Pagina de escogencia */
+
+    .Pagina_Escogencia
+    {
+        background-color:navy;
+    }
+
+    .Info
+    {
+        background-color: #fff;
+        width: 600px;
+        text-align: center;
+        margin: auto;
+        border-radius: 30px;
+        padding: 20px 10px;
+        box-shadow: 0px 0px 35px #fff;
+    }
+
+
+    /* Pagina SEO */
+    .Info_SEO
+    {
+        font-size: 19px;
+        padding: 10px 20px;
+        margin-bottom: 0;
+        color:black;
+        text-align: justify; 
+    }
+
+    .Pasos
+    {
+        background-color: #6ac;
+        width: 900px;
+        text-align: center;
+        margin: auto;
+        margin-top: 50px;
+        padding: 10px 50px;
+        border-color:black;
+        border-style: solid;
+        border-radius: 8px;
+        box-shadow: 0px 0px 35px #0006;  
+    }
+
+    /* Seccion de imagenes */
+    .imagenes
+    {
+        margin: 0 auto;
+        width: 600px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        display: block;
+        border-radius: 20px;
+    }
+
+    .card
+    {
+        background-color: #f86;
+        width: 300px;
+        text-align: center;
+        margin: auto;
+        margin-top: 50px;
+        padding: 20px 10px;
+        border-color:black;
+        border-style: solid;
+        border-radius: 8px;
+        box-shadow: 0px 0px 60px #0006;
+        display: inline-block;
+        margin: 20px;
+    }
